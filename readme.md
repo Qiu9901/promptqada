@@ -4,7 +4,7 @@
 
 ### Download data
 
-The few-shot data can be download from [Splinter](https://github.com/oriram/splinter/tree/main)
+The few-shot data can be downloaded from [Splinter](https://github.com/oriram/splinter/tree/main)
 
 ## Answer Extrction
 
