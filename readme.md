@@ -14,9 +14,12 @@ python generate_entity.py
 ```
 
 ## Question Generation
-## Promt-based QA pair generation
+## Prompt-Based Question Generation
 ```
 python generate_qa_pairs.py
 ```
 
-
+## Self-Context Data Augmentation and Prompt-Based QA Model Training
+```
+python promptQA.py
+```
